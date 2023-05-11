@@ -37,3 +37,6 @@ if img:
   #img2 = "IMGDIR/test.jpg"
   #st.write('Local Image')
   #st.image(img2)
+  
+if __name__ == "__main__":
+    main()  
